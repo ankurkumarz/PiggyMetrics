@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/PiggyMetrics
 report_id: 22429308a05a2174c2e21d5011623070
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:17:44+00:00'
+timestamp: '2024-01-05T08:24:49+00:00'
 requested_by: sqshq
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: Spring Cloud
   description: Spring helps development teams everywhere build simple, portable,fast
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -58,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -70,6 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/statistics-service/pom.xml
   detection_source: statistics-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-02-27 16:27:24.000000000 Z
@@ -81,6 +88,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: sqshq
   last_updated_on: 2016-03-13 01:37:11.000000000 Z
@@ -92,6 +100,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -104,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: Docker Compose
   description: Define and run multi-container applications with Docker
@@ -114,6 +124,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: alukyanchikov
   last_updated_on: 2016-01-25 21:33:36.000000000 Z
@@ -125,6 +136,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: Hystrix
   description: Latency and fault tolerance library
@@ -134,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Fault Tolerance Tools
   image_url: https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -146,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: sqshq
   last_updated_on: 2016-02-07 22:06:38.000000000 Z
@@ -158,6 +172,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/2932/zuul.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/gateway/pom.xml
   detection_source: gateway/pom.xml
   last_updated_by: alukyanchikov
   last_updated_on: 2016-01-25 21:33:36.000000000 Z
@@ -170,6 +185,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/src/test/resources/application.yml
   detection_source: account-service/src/test/resources/application.yml
   last_updated_by: sqshq
   last_updated_on: 2016-02-05 22:34:58.000000000 Z
@@ -179,6 +195,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/gateway/src/main/resources/static/attribution.html
   detection_source: gateway/src/main/resources/static/attribution.html
   last_updated_by: sqshq
   last_updated_on: 2016-01-26 22:47:46.000000000 Z
@@ -189,6 +206,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/mongodb/Dockerfile
   detection_source: mongodb/Dockerfile
   last_updated_by: alukyanchikov
   last_updated_on: 2016-01-25 21:33:36.000000000 Z
@@ -201,6 +219,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics
   detection_source: Repo Metadata
 - name: com.google.guava:guava
   description: Guava is a suite of core and expanded libraries that include utility
@@ -211,6 +230,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/statistics-service/pom.xml
   detection_source: statistics-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-02-27 16:27:24.000000000 Z
@@ -236,6 +256,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -248,6 +269,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -259,6 +281,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/notification-service/pom.xml
   detection_source: notification-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 23:05:28.000000000 Z
@@ -270,6 +293,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -282,6 +306,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -294,6 +319,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -305,6 +331,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/config/pom.xml
   detection_source: config/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-05 12:25:56.000000000 Z
@@ -316,6 +343,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/gateway/pom.xml
   detection_source: gateway/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-05 20:15:01.000000000 Z
@@ -327,6 +355,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -338,6 +367,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -349,6 +379,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
@@ -360,6 +391,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ankurkumarz/PiggyMetrics/blob/master/account-service/pom.xml
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-03-28 21:55:39.000000000 Z
