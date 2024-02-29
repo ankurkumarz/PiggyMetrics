@@ -4,19 +4,19 @@
 ankurkumarz/PiggyMetrics is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- [guava](https://github.com/google/guava) – Java Tools
 - [MongoDB](http://www.mongodb.com/) – Databases
 - [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- [guava](https://github.com/google/guava) – Java Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Docker Compose](https://github.com/docker/compose) – Container Tools
+- [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
 - [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -27,19 +27,19 @@ Full tech stack [here](/techstack.md)
 ankurkumarz/PiggyMetrics is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png' alt='Spring Cloud'/> [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' alt='RabbitMQ'/> [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png' alt='Hystrix'/> [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2970/wBjKn0ol.png' alt='guava'/> [guava](https://github.com/google/guava) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3136/docker-compose.png' alt='Docker Compose'/> [Docker Compose](https://github.com/docker/compose) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1758/cde558e9b4a1f07ff99f90d637c38388.png' alt='Hystrix'/> [Hystrix](https://github.com/Netflix/Hystrix) – Fault Tolerance Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5494/default_b403ef08976083aea6d4caf5a4f19f3325c751e5.png' alt='Spring Cloud'/> [Spring Cloud](https://spring.io/projects/spring-cloud) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/PiggyMetrics](https://github.com/ankurkumarz/PiggyMetrics)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|32<br/>Tools used|01/05/24 <br/>Report generated|
+|32<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -236,7 +236,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[com.google.guava:guava](https://github.com/google/guava)|N/A|02/27/16|sqshq |Apache-2.0|N/A|
-|[com.jayway.jsonpath:json-path](https://github.com/jayway/JsonPath)|v2.2.0|02/07/16|sqshq |Apache-2.0|N/A|
+|[com.jayway.jsonpath:json-path](https://github.com/jayway/JsonPath)|v2.2.0|02/07/16|sqshq |Apache-2.0|[CVE-2023-51074](https://github.com/advisories/GHSA-pfh2-hfmq-phg5) (Moderate)|
 |[org.springframework.boot:spring-boot-starter-actuator](https://projects.spring.io/spring-boot/#/spring-boot-parent/spring-boot-starters/spring-boot-starter-actuator)|N/A|03/28/16|sqshq |Apache-2.0|N/A|
 |[org.springframework.boot:spring-boot-starter-data-mongodb](https://projects.spring.io/spring-boot/#/spring-boot-parent/spring-boot-starters/spring-boot-starter-data-mongodb)|N/A|03/28/16|sqshq |Apache-2.0|N/A|
 |[org.springframework.boot:spring-boot-starter-mail](https://projects.spring.io/spring-boot/#/spring-boot-parent/spring-boot-starters/spring-boot-starter-mail)|N/A|03/28/16|sqshq |Apache-2.0|N/A|
