@@ -2,7 +2,7 @@ repo_name: ankurkumarz/PiggyMetrics
 report_id: 22429308a05a2174c2e21d5011623070
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:24:49+00:00'
+timestamp: '2024-02-29T19:01:18+00:00'
 requested_by: sqshq
 provider: github
 branch: master
@@ -247,6 +247,13 @@ tools:
   detection_source: account-service/pom.xml
   last_updated_by: sqshq
   last_updated_on: 2016-02-07 21:59:58.000000000 Z
+  vulnerabilities:
+  - name: json-path Out-of-bounds Write vulnerability
+    cve_id: CVE-2023-51074
+    cve_url: https://github.com/advisories/GHSA-pfh2-hfmq-phg5
+    detected_date: Jan 18
+    severity: moderate
+    first_patched: 2.9.0
 - name: org.springframework.boot:spring-boot-starter-actuator
   description: Starter for using Spring Boot's Actuator which provides production
     ready features to help you monitor and manage your application
